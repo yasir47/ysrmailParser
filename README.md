@@ -1,7 +1,6 @@
 # YsrmailParser
 
 The gem is use for Parsing email from raw data .
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
